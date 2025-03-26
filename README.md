@@ -55,6 +55,6 @@ This rule-based approach manually searches for trait phrases within the text cor
 
 ## 📊 Results
 
-The comparative analysis of trait extraction methods and their performance is documented in `579_Project_2_Report.pdf`.
+The comparative analysis of trait extraction methods and their performance is documented in `579_Project_2.pdf`.
 
 ---
