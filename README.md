@@ -17,7 +17,6 @@ Make sure Python 3.8+ is installed, along with Jupyter and the required librarie
 ```bash
 git clone https://github.com/yourusername/qtl_text_analysis_project2.git
 cd qtl_text_analysis_project2
-pip install -r requirements.txt
 ```
 
 ---
